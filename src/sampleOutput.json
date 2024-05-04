@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
+        },
+        "author": "HT News Desk",
+        "title": "Massive 17% iPhone 12 price cut announced on Flipkart; check discount amount, other offers - Hindustan Times",
+        "description": "Flipkart has announced a huge price cut on Apple iPhone 12; check the discount now.",
+        "url": "https://www.hindustantimes.com/business/massive-17-iphone-12-price-cut-announced-on-flipkart-check-discount-amount-other-offers-101714493063777.html",
+        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/30/1600x900/EU-TECH-ANTITRUST-0_1714493159480_1714493211266.JPG",
+        "publishedAt": "2024-04-30T16:12:54Z",
+        "content": "Flipkart has announced a massive Apple iPhone 12 price cut and if you also pick other offers that are available you can get the smartphone for a very low rate that will not dent your wallet too heavi… [+2235 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "TOI Lifestyle Desk",
+        "title": "In Pics: 6,900-year-old crater in Gujarat captured by NASA in newly shared pictures - The Times of India",
+        "description": "NASA's Landsat 8 satellite reveals stunning images of the 6,900-year-old Luna crater in Gujarat, India, confirming its extraterrestrial origins through rare mineral findings. Spanning 1.8 kilometers in diameter, the crater's distinct features and surrounding …",
+        "url": "https://timesofindia.indiatimes.com/etimes/trending/in-pics-6900-year-old-crater-in-gujarat-captured-by-nasa-in-newly-shared-pictures/articleshow/109731605.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-109731665,width-1070,height-580,imgsize-108906,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2024-04-30T15:30:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
+        },
+        "author": "HT News Desk",
+        "title": "Lok Sabha polls: Election Commission reschedules polling in J&K's Anantnag-Rajouri, voting on May 25 - Hindustan Times",
+        "description": "The Election Commission of India on Tuesday rescheduled polling for the Lok Sabha election in Jammu and Kashmir's Anantnag-Rajouri seat from May 7 to May 25. | Latest News India",
+        "url": "https://www.hindustantimes.com/india-news/lok-sabha-polls-election-commission-reschedules-polling-in-j-ks-anantnag-rajouri-voting-on-may-25-101714488731699.html",
+        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/04/30/1600x900/Election_Commission_1714488741338_1714488741696.jpg",
+        "publishedAt": "2024-04-30T14:56:54Z",
+        "content": "The Election Commission of India on Tuesday rescheduled polling for the Lok Sabha election in Jammu and Kashmir's Anantnag-Rajouri seat from May 7 to May 25. \r\nIn its notification, the poll panel sai… [+1931 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Livemint"
+        },
+        "author": "Suneera Tandon",
+        "title": "Coca-Cola gains $293 million from sale of some bottling operations | Mint - Mint",
+        "description": "The beverage major remains “bullish” on the long-term prospects of the country where it sells several brands including Coca-Cola, Sprite, and Minute Maid. The management expects the company to have a “strong” year in India.",
+        "url": "https://www.livemint.com/companies/news/cocacola-makes-293-million-from-refranchising-india-bottling-operations-11714485254205.html",
+        "urlToImage": "https://www.livemint.com/lm-img/img/2024/04/30/1600x900/2-0-1098734228-cocacola-0_1679708239395_1714488391370.jpg",
+        "publishedAt": "2024-04-30T14:49:49Z",
+        "content": "New Delhi: The Coca-Cola Company made net gains of $293 million from sale of some bottling operations to local players in certain territories in India earlier this year, the worlds largest beverage m… [+2981 chars]"
+      }
+    ]
+  }
