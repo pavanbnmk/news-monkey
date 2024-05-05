@@ -1,8 +1,8 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-export default class NewsItem extends Component {
-    render() {
-        let { title, description, imageUrl, newsUrl, author, publishedAt, source } = this.props
+const NewsItem =(props) => {
+
+        let { title, description, imageUrl, newsUrl, author, publishedAt, source } = props
         return (
             <div className="card my-3">
                 <div style={{ display: 'flex', justifyContent: 'flex-end', position: 'absolute', left: '0' }}>
@@ -13,9 +13,9 @@ export default class NewsItem extends Component {
                     <h5 className="card-title">{title} </h5>
                     <p className="card-text">{description}</p>
                     <p className='card-text text-center'><small className='text-muted'>Author: {author ? author : 'Unknown'} on {publishedAt}</small></p>
-                    <a href={newsUrl} target='_blank' className="btn btn-sm btn-primary text-center right">Read More</a>
+                    <a rel="noreferrer" href={newsUrl} target='_blank' className="btn btn-sm btn-primary text-center right">Read More</a>
                 </div>
             </div>
         )
-    }
 }
+export default NewsItem;
